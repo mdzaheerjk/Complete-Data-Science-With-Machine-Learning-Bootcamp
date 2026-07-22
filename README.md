@@ -1,4 +1,4 @@
-# Complete Data Science With Machine Learning And NLP 2025 
+# Complete Data Science With Machine Learning
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
 
@@ -28,15 +28,6 @@ Learn how to handle and preprocess data effectively, including data cleaning, tr
 
 ### Machine Learning Techniques
 An introduction to traditional machine learning algorithms, including supervised and unsupervised learning as well as model evaluation.
-
-### Natural Language Processing
-Explore techniques for processing and understanding human language, including text representation and machine translation.
-
-### Deep Learning Basics
-An introduction to neural networks and foundational concepts in deep learning.
-
-### Advanced Deep Learning
-Dive deeper into complex architectures, including convolutional and recurrent networks.
 
 ## Installation Instructions
 To install the necessary packages and set up the environment, follow these instructions:
